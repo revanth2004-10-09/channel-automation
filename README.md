@@ -1,4 +1,4 @@
-# 🤖 Puppeteer YouTube Automation (FX MESSI)
+# 🤖 Puppeteer YouTube Automation 
 
 A beginner-friendly automation project using **Puppeteer (Node.js)** that:
 
