@@ -113,7 +113,8 @@ This project is for:
 * 🤖 Run multiple sessions
 
 ---
-
+## for running
+node index.js
 
 
 ---
